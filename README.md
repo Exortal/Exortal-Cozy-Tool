@@ -1,6 +1,5 @@
 # Exortal Cozy Tool
 
-![Exortal Cozy Tool logo](icon-preview-256.png)
 
 **A calmer way to manage your FC 27 Lite setup.**
 
